@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/AleksandrGorodiski/ZombieSlayer/Scenes/Gameplay.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/AleksandrGorodiski/ZombieSlayer/Scenes/Level1.unity
+    guid: 6bf7b226d544d4a9a86b7d40d801b39a
+  - enabled: 0
+    path: Assets/AleksandrGorodiski/ZombieSlayer/Scenes/Level2.unity
+    guid: be733b0fb85eb4649a5cb2cdab328a43
+  m_configObjects: {}
