@@ -17,7 +17,3 @@
 <div style="text-align: center;">
     <img src="./Template_02.png" alt="Temapate_02" width="500" style="margin-bottom: 20px;"/>
 </div>
-
-If in your project this shader doesn`t work try to disable Main Light on your URP Settings
-
-![](./URPSettings.png)
